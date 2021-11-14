@@ -102,12 +102,13 @@ ___
 ___
 
 > ### Richtung Autobahn / Kraftfahrstraße
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/richtung-autobahn.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Направление на автостраду / автомобильную магистраль
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Direction to motorway / highway
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -163,12 +164,13 @@ ___
 ___
 
 > ### Umkehren
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/umkehren.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Повернуть назад
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Turning back
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -184,12 +186,13 @@ ___
 ___
 
 > ### Zwischen Fahrzeugen einparken
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/zwischen-fahrzeugen-einparken.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Припарковаться между автотранспортными средствами
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Park between vehicles
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -298,12 +301,13 @@ ___
 ___
 
 > ### Warnblinkanlage
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/warnblinkanlage.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Аварийная сигнализация
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Hazard warning lights
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -328,12 +332,13 @@ ___
 ___
 
 > ### Kontrollleuchten benennen
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/kontrollleuchten.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Назвать контрольные фонари
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Name the control lights
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -358,12 +363,13 @@ ___
 ___
 
 > ### Beschädigung
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/beschädigung.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Повреждение
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Damage
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -378,12 +384,13 @@ ___
 ___
 
 > ### Lenkschloss entriegeln
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/lenkschloss-entriegeln.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Разблокировка замка рулевого управления
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Unlock the steering lock
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -418,12 +425,13 @@ ___
 ___
 
 > ### Flüssigkeitsstände prüfen
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/flüssigkeitsstände-prüfen.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Проверить уровни жидкости
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Check fluid levels
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -448,12 +456,13 @@ ___
 ___
 
 > ### Scheibenwaschflüssigkeit
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/scheibenwaschflüssigkeit.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Жидкость для автостекол
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Washer fluid
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -508,12 +517,13 @@ ___
 ___
 
 > ### Sicherheitsgurt
+> <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/sicherheitsgurt.mp3" type="audio/mp3"></audio>
 
 > ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Ремень безопасности
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Seat belt
 
-> v.1.0.0
+> v.1.0.1
 
 ___
 
@@ -619,9 +629,9 @@ ___
 
 > ### Räder kontrollieren
 
-> ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Открыть капот
+> ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Проверить колеса
 
-> ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Open the bonnet
+> ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Check the wheels
 
 > v.1.0.0
 
@@ -629,7 +639,7 @@ ___
 
 > ### Fenster öffnen / schließen
 
-> ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Окна открыть / закрыть
+> ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Окно открыть / закрыть
 
 > ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Open / close window
 
