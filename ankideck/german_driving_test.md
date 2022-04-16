@@ -14,62 +14,85 @@ ___
 
 ### Links
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Налево
+<div class="no_audio"></div>
+
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Ліворуч
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") To the left
 
-v.1.0.0
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Налево
+
+v.1.1.0
 
 ___
 
 ### Rechts
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Направо
+<div class="no_audio"></div>
+
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Праворуч
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") To the right
 
-v.1.0.0
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Направо
+
+v.1.1.0
 
 ---
 
 ### Nächste Straße (links / rechts)
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Следующая улица (налево / направо)
+<div class="no_audio"></div>
+
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Наступна вулиця (ліворуч/праворуч)
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Next street (left / right)
 
-v.1.0.0
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Следующая улица (налево / направо)
+
+v.1.1.0
 
 ---
 
 ### Halb links/rechts abbiegen
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Повернуть наполовину налево / направо
+<div class="no_audio"></div>
+
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Повернути наполовину ліворуч/праворуч
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Turn half left/right
 
-v.1.0.0
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Повернуть наполовину налево / направо
+
+v.1.1.0
 
 ___
 
 ### Erste / zweite / dritte Straße rechts (Kreisverkehr)
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Первая / вторая / третья улица направо (круговой
-перекрёсток)
+<div class="no_audio"></div>
 
-![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") First/second/third street to the right (roundabout)
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Перша / друга / третя вулиця направо (кругове перехрестя)
 
-v.1.0.0
+![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") First / second / third street to the right (roundabout)
+
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Первая / вторая / третья улица направо (круговой перекрёсток)
+
+v.1.1.0
 
 ___
 
 ### Erste / zweite / dritte Ausfahrt nehmen
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Выехать на первый / второй / третий съезд
+<div class="no_audio"></div>
+
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Виїхати на перший/другий/третій з'їзд
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Go to the first / second / third exit
 
-v.1.0.0
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Выехать на первый / второй / третий съезд
+
+v.1.1.0
 
 ___
 
@@ -77,21 +100,27 @@ ___
 
 <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/der-vorfahrtsstraße-folgen.mp3" type="audio/mp3"></audio>
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Ехать по главной дороге
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Їхати головною дорогою
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Follow the main road
 
-v.1.0.1
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Ехать по главной дороге
+
+v.1.1.1
 
 ___
 
 ### In Richtung … fahren
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Ехать в направлении ...
+<div class="no_audio"></div>
+
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Їхати у напрямку ...
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Drive in the direction of ...
 
-v.1.0.0
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Ехать в направлении ...
+
+v.1.1.0
 
 ___
 
@@ -99,11 +128,13 @@ ___
 
 <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/geht-es-geradeaus.mp3" type="audio/mp3"></audio>
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Если ничего не сказано, ехать прямо
+![UA](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/UA.png "Ukrainian Language") Якщо нічого не сказано, їхати прямо
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") If nothing is said, go straight ahead
 
-v.1.0.1
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Если ничего не сказано, ехать прямо
+
+v.1.1.1
 
 ___
 
@@ -111,8 +142,7 @@ ___
 
 <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/richtung-autobahn.mp3" type="audio/mp3"></audio>
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Направление на автостраду / автомобильную
-магистраль
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Направление на автостраду / автомобильную магистраль
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Direction to motorway / highway
 
@@ -166,8 +196,7 @@ ___
 
 ![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Припарковаться вдоль / поперек (вперед / назад)
 
-![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Parking lengthways / crossways (forwards /
-backwards)
+![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Parking lengthways / crossways (forwards / backwards)
 
 v.1.0.0
 
@@ -213,11 +242,11 @@ ___
 
 <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/gefahrbremsung.mp3" type="audio/mp3"></audio>
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Аварийное торможение / торможение с максимально
-возможным замедлением
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Аварийное торможение / торможение с максимально возможным
+замедлением
 
-![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Emergency braking / braking with the greatest
-possible deceleration
+![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Emergency braking / braking with the greatest possible
+deceleration
 
 v.1.0.1
 
@@ -605,8 +634,7 @@ ___
 
 ### Erster / zweiter / dritter / vierter / fünfter Gang
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Первая / вторая / третья / четвертая / пятая
-передача
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Первая / вторая / третья / четвертая / пятая передача
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") First / second / third / fourth / fifth gear
 
@@ -846,8 +874,7 @@ ___
 
 ### Fehlende oder ungenügende Spiegelbeobachtung
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Не смотрел или недостаточно хорошо смотрел в
-зеркало
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Не смотрел или недостаточно хорошо смотрел в зеркало
 
 ![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Missing or insufficient mirror observation
 
@@ -950,11 +977,9 @@ ___
 
 <audio controls><source src="https://github.com/stanislaw-wein/anki-german-driving-test/raw/main/resources/audio/vorfahrt.mp3" type="audio/mp3"></audio>
 
-![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Преимущественное право езды / приоритет не
-учитывался при...
+![RU](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/RU.png "Russian Language") Преимущественное право езды / приоритет не учитывался при...
 
-![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Right of way / priority disregarded in the case of
-...
+![EN](https://raw.githubusercontent.com/stanislaw-wein/anki-german-driving-test/main/resources/images/GB.png "English Language") Right of way / priority disregarded in the case of ...
 
 v.1.0.1
 
